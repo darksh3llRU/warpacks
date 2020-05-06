@@ -2,7 +2,7 @@
 
 1) proxywarpack, txt files are base64 encoded exe binaries
 
-proxywarpack/putty/
+proxywarpack/putty/\n
 proxywarpack/putty/putty.txt
 
 proxywarpack/putty/putty.exe
